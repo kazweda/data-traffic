@@ -10,3 +10,7 @@ AppSheetで作ったデータ通信量の管理アプリです。
 # Install
 To install 'DataTraffic' on your mobile device, click on
  https://www.appsheet.com/newshortcut/bc6280e4-86a4-4b26-9390-049709145f21
+
+# デプロイ設定
+サインインを不要にしました。
+https://github.com/kazweda/data-traffic/issues/2
